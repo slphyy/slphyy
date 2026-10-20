@@ -1,16 +1,21 @@
-## Hi there 👋
+# **Bernardo Dias**
 
-<!--
-**slphyy/slphyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently learning Java and on a `C++` and `C` rehab.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bernardodias9-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bernardodias9/)
+[![GitHub](https://img.shields.io/badge/GitHub-slphyy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/slphyy)
+[![Email](https://img.shields.io/badge/Email-bernardoferreira73@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://github.com/slphyy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Skills**
+
+|||
+|-|-|
+|**Languages**|`Python` `C++` `Java`|
+|**Architeture**| `OOP`|
+|**Tools**|`Git`
+
+## **Education**
+
+### **Bachelor of Science in Computer and Information Systems**
+
+Federal University of Vales do Jequitinhonha e Mucuri · 2023 - 202?
