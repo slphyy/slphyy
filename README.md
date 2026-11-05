@@ -10,7 +10,7 @@ Currently learning `Java` and increasing my knowledge of the `Python` language.
 
 |||
 |-|-|
-|**Languages**|`Python` `C++` `Java`|
+|**Languages**|`Python` `Java`|
 |**Architeture**| `OOP`|
 |**Tools**|`Git`
 
